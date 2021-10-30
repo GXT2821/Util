@@ -1,4 +1,4 @@
-package com.test;
+package com.guotao;
 
 import static org.junit.Assert.assertTrue;
 

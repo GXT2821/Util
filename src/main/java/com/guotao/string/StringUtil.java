@@ -1,4 +1,4 @@
-package com.test.string;
+package com.guotao.string;
 
 /**
  * String工具类，复用org.apache.commons.lang.StringUtils类的一些实现

@@ -1,4 +1,4 @@
-package com.test.protostuff;
+package com.guotao.protostuff;
 
 import com.dyuproject.protostuff.LinkedBuffer;
 import com.dyuproject.protostuff.ProtobufIOUtil;
